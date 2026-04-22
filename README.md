@@ -8,7 +8,6 @@
 
 <p align="left">
 Hi! 👋 I'm a full-stack developer with experience in web and mobile apps.  
-I like building projects, solving problems, and learning new technologies.
 </p>
 
 <p align="left">
@@ -38,8 +37,6 @@ Advanced full-stack & mobile development
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
