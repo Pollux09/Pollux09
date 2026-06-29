@@ -12,9 +12,7 @@ Hi! 👋 I'm a full-stack developer with experience in web and mobile apps.
 
 <p align="left">
 💻 <b>Skills</b><br>
-Backend: Python, Django, FastAPI, SQL, REST APIs<br>
-Frontend: Vue.js, Tailwind CSS<br>
-Mobile: Flutter<br>
+Backend: Python, Django, FastAPI, SQL, REST APIs, Redis, RabbitMQ, Kafka, Celery<br>
 Tools: Git, CI/CD, Docker, AWS
 </p>
 
@@ -26,8 +24,8 @@ Tools: Git, CI/CD, Docker, AWS
 
 <p align="left">
 🌱 <b>Learning</b><br>
-C / C++<br>
-Advanced full-stack & mobile development
+C<br>
+Advanced full-stack
 </p>
 
 ###
@@ -39,11 +37,7 @@ Advanced full-stack & mobile development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="vuejs logo"  />
   <img width="10" />
   <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9e0.svg" height="35" alt="brain logo" />
 </div>
